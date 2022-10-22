@@ -11,4 +11,4 @@ samples:<br>
 
 The license is MIT.
 
-Have fun, and that's an order.
+Have fun, *and that's an order*.
